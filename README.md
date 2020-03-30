@@ -1,2 +1,5 @@
 # basic-aws-infra
-Basic AWS Infrastructure moduling resources.
+
+Basic AWS Infrastructure modulating resources with Terraform.
+
+![AWS Infrastructure](images/infra.png)
